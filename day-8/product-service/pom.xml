@@ -9,7 +9,7 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.website</groupId>
-	<artifactId>product-service</artifactId>
+	<artifactId>product-service</artifactId>    
 	<version>0.0.1-SNAPSHOT</version>
 	<name>product-service</name>
 	<description>Product  micro service </description>
